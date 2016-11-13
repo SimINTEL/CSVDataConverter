@@ -35,3 +35,19 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Eclipse Project Files #
+
+.classpath
+.project
+.settings
+.mvn
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
